@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/src/java/advance/dev/admin/product/EditProductServlet.java</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/src/java/advance/dev/admin/category/IndexCategoryServlet.java</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/src/java/advance/dev/CategoryDetailServlet.java</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/web/admin/dashboard.jsp</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/src/java/advance/dev/data/impl/ProductDaoImpl.java</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/src/java/advance/dev/util/GetDateTime.java</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/web/admin/product/edit.jsp</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/web/category-detail.jsp</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/src/java/advance/dev/admin/DashBoardServlet.java</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/web/home.jsp</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/src/java/advance/dev/data/dao/ProductDao.java</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/src/java/advance/dev/admin/product/CreateProductServlet.java</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/web/admin/product/index.jsp</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/src/java/advance/dev/data/impl/CategoryDaoImpl.java</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/src/java/advance/dev/CategoryServlet.java</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/web/public/css/style.css</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/src/java/advance/dev/data/dao/CategoryDao.java</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/web/admin/order_details/show.jsp</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/src/java/advance/dev/data/dao/OrderDao.java</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/src/java/advance/dev/data/impl/OrderDaoImpl.java</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/src/java/advance/dev/HomeServlet.java</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/web/admin/inc/sideleft.jsp</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/web/admin/inc/navbar.jsp</file>
+            <file>file:/C:/Users/Laptop%20QHD/Documents/NetBeansProjects/WebAppl/src/java/advance/dev/admin/BaseAdminServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
